@@ -27,6 +27,6 @@ arnaudmalassigne@oclock.school
 * Permis B
 * Basket-ball
 * Cyclisme
-* 
+ 
 ---
 :copyright: 2023-ArnaudMalass-[Me contacter](https://github.com/ArnaudMalass/S01E11-Atelier-Recap/blob/main/contact.md) 
