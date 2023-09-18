@@ -3,7 +3,8 @@
 
 Développeur web junior, en formation "Developpement Web et Accessibilité chez O'Clock"
 
-[Acceuil](https://github.com/ArnaudMalass/S01E11-Atelier-Recap/blob/main/readme.md)-[Projets](https://github.com/ArnaudMalass/S01E11-Atelier-Recap/blob/main/projets.md)-CV-Contact
+[Acceuil](https://github.com/ArnaudMalass/S01E11-Atelier-Recap/blob/main/readme.md)-[Projets](https://github.com/ArnaudMalass/S01E11-Atelier-Recap/blob/main/projets.md)-[CV](https://github.com/ArnaudMalass/S01E11-Atelier-Recap/blob/main/cv.md)-[Contact](https://github.com/ArnaudMalass/S01E11-Atelier-Recap/blob/main/contact.md)
+
 
 ## Mes Projets 
 |Clients | Dates | Technologies | Lien |
@@ -12,4 +13,4 @@ Développeur web junior, en formation "Developpement Web et Accessibilité chez 
 |Google| 2021 | Node.js | [Google](https://www.google.fr/)|
 Mme Michu| 2017 | HTML, CSS | [Mme Michu](https://www.e-marketing.fr/Thematique/influences-1293/veille-tribune-2217/Breves/-Tribune-Il-est-temps-d-en-finir-avec-Madame-376389.htm#:~:text=%22Madame%20Michu%22%20est%20la%20formule,ni%20tout%20%C3%A0%20fait%20pauvres.) |
 
-:copyright: 2023-ArnaudMalass-Me contacter 
+:copyright: 2023-ArnaudMalass-[Me contacter](https://github.com/ArnaudMalass/S01E11-Atelier-Recap/blob/main/contact.md) 

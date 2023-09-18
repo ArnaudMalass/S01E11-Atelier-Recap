@@ -3,11 +3,11 @@
 
 Développeur web junior, en formation "Developpement Web et Accessibilité chez O'Clock"
 
-[Acceuil](https://github.com/ArnaudMalass/S01E11-Atelier-Recap/blob/main/readme.md)-[Projets](https://github.com/ArnaudMalass/S01E11-Atelier-Recap/blob/main/projets.md)-CV-Contact
+[Acceuil](https://github.com/ArnaudMalass/S01E11-Atelier-Recap/blob/main/readme.md)-[Projets](https://github.com/ArnaudMalass/S01E11-Atelier-Recap/blob/main/projets.md)-[CV](https://github.com/ArnaudMalass/S01E11-Atelier-Recap/blob/main/cv.md)-[Contact](https://github.com/ArnaudMalass/S01E11-Atelier-Recap/blob/main/contact.md)
 
 ## Contact 
 :world_map: arnaud.malassigne@oclock.school
 
 :phone:telephone:06.06.06.06.06
 
-:copyright: 2023-ArnaudMalass-Me contacter 
+:copyright: 2023-ArnaudMalass-[Me contacter](https://github.com/ArnaudMalass/S01E11-Atelier-Recap/blob/main/contact.md) 
